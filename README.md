@@ -33,7 +33,6 @@ Results-driven Backend Developer with professional experience in building scalab
 ### Automation
 - Selenium
 - RPA Automation
-- Process Automation
 
 ### ERP & Business Solutions
 - Odoo
@@ -108,13 +107,5 @@ Graduated: 2023
 - 🐙 GitHub: github.com/umerfarooq31
 
 ---
-
-## 🎯 Current Focus
-
-- FastAPI Advanced Development
-- Django REST Framework
-- PostgreSQL Optimization
-- Backend System Design
-- Automation & RPA Solutions
 
 ⭐ Thanks for visiting my profile!
