@@ -1,8 +1,12 @@
-# Hi 👋, I'm Umer Farooq
+<h1 align="center">Hi 👋, I'm Umer Farooq</h1>
 
-## Backend Developer | Python Developer | RPA Automation
+<h3 align="center">
+Backend Developer | Python Developer | FastAPI | Django | PostgreSQL
+</h3>
 
+<p align="center">
 Results-driven Backend Developer with professional experience in building scalable backend applications, REST APIs, and automation solutions using Python technologies.
+</p>
 
 ---
 
@@ -36,26 +40,32 @@ Results-driven Backend Developer with professional experience in building scalab
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 - Python
 
 ### Backend Development
+
 - FastAPI
 - Django
 - Django REST Framework (DRF)
 - REST APIs
 
 ### Databases
+
 - PostgreSQL
 - SQLite
 
 ### Automation
+
 - Selenium
 - RPA Automation
 
 ### ERP Solutions
+
 - Odoo
 
 ### Tools
+
 - Git
 - GitHub
 - Postman
@@ -67,6 +77,7 @@ Results-driven Backend Developer with professional experience in building scalab
 ## 💼 Professional Experience
 
 ### Backend Developer | Enigmatix
+
 **June 2025 – Present**
 
 - Developed and maintained backend applications using Python and FastAPI
@@ -81,33 +92,41 @@ Results-driven Backend Developer with professional experience in building scalab
 ## 📂 Featured Projects
 
 ### 🔹 Aviso
+
 Backend services and REST APIs built using FastAPI.
 
 **Tech Stack:** Python, FastAPI, PostgreSQL
 
 ### 🔹 Dr. Eye Med
+
 Automation workflows developed using Python and Selenium.
 
 **Tech Stack:** Python, Selenium, RPA
 
 ### 🔹 Till2Bill
+
 ERP-based business management solution built with Odoo.
 
 **Tech Stack:** Python, Odoo
 
 ### 🔹 Job Recruiter
+
 Recruitment management application for handling candidate and job records.
 
 ### 🔹 Chat App
+
 Real-time communication application built with Python.
 
 ### 🔹 Contact Book CRM
+
 Contact management and customer record system.
 
 ### 🔹 Quiz App
+
 Interactive quiz application with score tracking.
 
 ### 🔹 Dictionary App
+
 Python-based dictionary application.
 
 ---
@@ -120,11 +139,15 @@ Graduated: 2023
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umerfarooq31&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umerfarooq31&show_icons=true&count_private=true&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umerfarooq31&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerfarooq31&layout=compact&hide_border=true" />
+</p>
 
 ---
 
@@ -132,7 +155,7 @@ Graduated: 2023
 
 - 📧 Email: fumer7398@gmail.com
 - 📍 Location: Bahawalpur, Punjab, Pakistan
-- 💼 LinkedIn: www.linkedin.com/in/umer-farooq-097546209
+- 💼 LinkedIn: https://www.linkedin.com/in/umer-farooq-097546209
 - 🐙 GitHub: https://github.com/umerfarooq31
 
 ---
