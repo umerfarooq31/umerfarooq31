@@ -156,13 +156,6 @@ Graduated: 2023
 
 ---
 
-## 📊 GitHub Statistics
-
-
-
-
-
----
 
 ## 🤝 Connect With Me
 
